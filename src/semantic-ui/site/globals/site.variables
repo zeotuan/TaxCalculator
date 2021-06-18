@@ -1,0 +1,13 @@
+/*******************************
+     User Global Variables
+*******************************/
+@purple:#7c55e0;
+
+select.ui.dropdown{
+    border: 1px solid black;
+}
+
+.input {
+    border: 1px solid black;
+    border-radius: 2px;
+}
